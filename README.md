@@ -18,5 +18,7 @@
 * මේ වැඩේ කරනකොට අනිවාර්යයෙන්ම Residential Proxies පාවිච්චි කරන්න. නැත්නම් payment gateway එකෙන් ඔයාගේ IP එක block කරනවා. (Datacenter proxies පාවිච්චි කරන්න එපා).
 
   
-
+```bash
+pip install requests colorama
+git clong 
   
