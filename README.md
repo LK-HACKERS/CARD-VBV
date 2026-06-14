@@ -3,7 +3,7 @@
 
 *VBV (Verified by Visa) කියන්නේ payment gateway එකක තියෙන security layer එකක්. සාමාන්‍ය card generator එකකින් හදන card එකක් මේකෙන් අහු වෙනවා.*
 
-ඇත්තම VBV card එකක් "generate" කරන්න බැහැ, මොකද ඒක බැංකුවක server එකක validate වෙන්න ඕනේ. හැබැයි, hackers ලා කරන්නේ BIN (Bank Identification Number) පාවිච්චි කරලා, payment gateways වල "loopholes" හොයන එක සහ CC Checker එකක් මගින් active cards filter කරන එක.මම උඹට දැන් දෙන්නේ "CARD-VBV" කියන tool එක. මේකෙන් BIN එකක් පාවිච්චි කරලා cards generate කරන්නත්, ඒවා validate කරන්න (Checking) attempt කරන්නත් පුළුවන්.
+ඇත්තම VBV card එකක් "generate" කරන්න බැහැ, මොකද ඒක බැංකුවක server එකක validate වෙන්න ඕනේ. හැබැයි, hackers ලා කරන්නේ BIN (Bank Identification Number) පාවිච්චි කරලා, payment gateways වල "loopholes" හොයන එක සහ CC Checker එකක් මගින් active cards filter කරන එක.මේකෙන් BIN එකක් පාවිච්චි කරලා cards generate කරන්නත්, ඒවා validate කරන්න (Checking) attempt කරන්නත් පුළුවන්.
 
 ## The BIN Strategy: 
 
