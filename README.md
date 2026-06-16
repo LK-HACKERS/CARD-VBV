@@ -20,7 +20,7 @@
   
 ```bash
 pip install requests colorama
-git clong https://github.com/LK-HACKERS/CARD-VBV.git
+git clone https://github.com/LK-HACKERS/CARD-VBV.git
 cd CARD-VBV
 python run.py
 ```  
